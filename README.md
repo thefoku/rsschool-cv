@@ -1,2 +1,1 @@
-# rsschool-cv
-CV for RS from Roman Kargin
+https://thefoku.github.io/rsschool-cv/cv
