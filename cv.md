@@ -1,4 +1,5 @@
 # Roman Kargin
+[Roman Kargin Photo](photo.jpg)
 
 # Contact Information
 
